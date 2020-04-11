@@ -1,0 +1,10 @@
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\bin\Debug\patient_db.exe.config
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\bin\Debug\patient_db.exe
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\bin\Debug\patient_db.pdb
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.csprojResolveAssemblyReference.cache
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.AnaForm.resources
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.Properties.Resources.resources
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.csproj.GenerateResource.Cache
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.exe
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.pdb
+D:\dersler\online egitim\2020\bilp 204\patient\patient_db\patient_db\obj\Debug\patient_db.veritabaniForm.resources
