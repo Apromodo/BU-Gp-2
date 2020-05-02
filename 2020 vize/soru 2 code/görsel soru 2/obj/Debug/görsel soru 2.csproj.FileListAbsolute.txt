@@ -1,0 +1,10 @@
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\bin\Debug\görsel soru 2.exe.config
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\bin\Debug\görsel soru 2.exe
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\bin\Debug\görsel soru 2.pdb
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel soru 2.csprojAssemblyReference.cache
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel_soru_2.Form1.resources
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel_soru_2.Properties.Resources.resources
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel soru 2.csproj.GenerateResource.cache
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel soru 2.csproj.CoreCompileInputs.cache
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel soru 2.exe
+C:\Users\kayaunal\source\repos\görsel soru 2\görsel soru 2\obj\Debug\görsel soru 2.pdb

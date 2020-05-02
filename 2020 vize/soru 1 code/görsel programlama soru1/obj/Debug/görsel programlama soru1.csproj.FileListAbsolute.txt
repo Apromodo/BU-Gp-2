@@ -1,0 +1,10 @@
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\bin\Debug\görsel programlama soru1.exe.config
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\bin\Debug\görsel programlama soru1.exe
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\bin\Debug\görsel programlama soru1.pdb
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel programlama soru1.csprojAssemblyReference.cache
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel_programlama_soru1.Form1.resources
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel_programlama_soru1.Properties.Resources.resources
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel programlama soru1.csproj.GenerateResource.cache
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel programlama soru1.csproj.CoreCompileInputs.cache
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel programlama soru1.exe
+C:\Users\kayaunal\source\repos\görsel programlama soru1\görsel programlama soru1\obj\Debug\görsel programlama soru1.pdb
