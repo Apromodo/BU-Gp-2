@@ -1,0 +1,10 @@
+C:\Users\Kaan\source\repos\sinav2\sinav2\bin\Debug\sinav2.exe.config
+C:\Users\Kaan\source\repos\sinav2\sinav2\bin\Debug\sinav2.exe
+C:\Users\Kaan\source\repos\sinav2\sinav2\bin\Debug\sinav2.pdb
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.csprojAssemblyReference.cache
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.Form1.resources
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.Properties.Resources.resources
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.exe
+C:\Users\Kaan\source\repos\sinav2\sinav2\obj\Debug\sinav2.pdb

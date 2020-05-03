@@ -1,0 +1,10 @@
+C:\Users\Kaan\source\repos\sınav\sınav\bin\Debug\sınav.exe.config
+C:\Users\Kaan\source\repos\sınav\sınav\bin\Debug\sınav.exe
+C:\Users\Kaan\source\repos\sınav\sınav\bin\Debug\sınav.pdb
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.csprojAssemblyReference.cache
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.Form1.resources
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.Properties.Resources.resources
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.exe
+C:\Users\Kaan\source\repos\sınav\sınav\obj\Debug\sınav.pdb
